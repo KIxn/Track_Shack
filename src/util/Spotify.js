@@ -2,7 +2,7 @@
 let Usr_Token = '';
 let Exp_Time;
 const Client_ID = '5cc42e2699c6433ea336fa61f232c47e';
-const redir = 'https://jolly-pare-56e724.netlify.app';
+const redir = 'https://jolly-pare-56e724.netlify.app/';
 
 const Spotify = {
     getAccessToken(){
